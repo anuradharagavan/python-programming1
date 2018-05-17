@@ -4,6 +4,6 @@ if num > 0:
 elif num == 0:
    print("Zero")
 else:
-   print("Negative number
+   print("Negative number")
          
          
